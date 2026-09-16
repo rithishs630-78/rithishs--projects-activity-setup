@@ -84,7 +84,7 @@ Base URL: `http://127.0.0.1:8000/api/students/`
 
 {
 
-&#x20;"name": "RITHISH",
+"name": "RITHISH",
 "email": "rithish@123.com",
 "phone": "9845643210",
 "course": "B.Tech AIDS",
